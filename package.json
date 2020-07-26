@@ -1,0 +1,22 @@
+{
+  "name": "notes-app",
+  "version": "1.0.0",
+  "description": "Udemy Course created by Andrew Mead https://www.udemy.com/course/the-complete-nodejs-developer-course-2/",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rendikr/NodeJS-Notes-App.git"
+  },
+  "author": "Rendi K.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rendikr/NodeJS-Notes-App/issues"
+  },
+  "homepage": "https://github.com/rendikr/NodeJS-Notes-App#readme",
+  "dependencies": {
+    "validator": "^10.8.0"
+  }
+}
